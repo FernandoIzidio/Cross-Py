@@ -3,7 +3,7 @@
 Este repositório é dedicado ao desenvolvimento de software multiplataforma utilizando a poderosa biblioteca PySide6, baseada no framework Qt. 
 
 ## Stack Tecnológica
-- **PySide6 (Qt):** Uma ferramenta de desenvolvimento cross-platform que oferece uma variedade de recursos para a criação de interfaces gráficas intuitivas. Descubra projetos que exploram a versatilidade e a eficiência do PySide6 para atender às demandas de diferentes plataformas.
+- **PySide6 (Qt):** Uma ferramenta de desenvolvimento cross-platform que oferece uma variedade de recursos para a criação de interfaces gráficas intuitivas.
 - **Python:** Linguagem de programação principal para todos os projetos.
 - **Qt Designer:** Ferramenta gráfica para criar interfaces Qt de maneira visual.
 - **Qt Linguist:** Ferramenta para localização e internacionalização de aplicações Qt.
